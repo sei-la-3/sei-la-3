@@ -30,7 +30,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisei-la-3=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![julio bernardes GitHub stats](https://github-readme-stats.vercel.app/apisei-la-3)](https://github.com/sei-la-3/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
