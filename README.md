@@ -30,7 +30,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![sei-la-3](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs).
+![sei-la-3](https://github-readme-stats.vercel.app/api?username=sei-la-3hide=contribs,prs).
 
 <!-- Portfolio -->
 ## Portfolio:
