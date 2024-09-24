@@ -30,7 +30,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
 
 <!-- GithubStats -->
-![sei-la-3](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&theme=default&show_icons=true&hide_border=true&count_private=false)
+![sei-la-3]()
 
 <!-- Portfolio -->
 ## Portfolio:
