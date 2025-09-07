@@ -1,12 +1,11 @@
 
-    <!--título-->
+    
 #
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
     <p>Para uma pessoa o maior desafio é simplesmente começar</p> 
 
 ---
-<!-- Presentation -->
 ###
 <p>
   Hi 👋, I'm Julio! A passionate Data Science student from Brazil.
@@ -16,7 +15,6 @@
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 ---
-<!-- Dropdown -->
 ##
   <summary>👨‍💻 More about me</summary>
 
