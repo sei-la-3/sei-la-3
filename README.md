@@ -1,12 +1,10 @@
 
     
-#
+
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
     <p>Para uma pessoa o maior desafio é simplesmente começar</p> 
-
----
-###
+  </ul>
 <p>
   Hi 👋, I'm Julio! A passionate Data Science student from Brazil.
 
@@ -14,15 +12,13 @@
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
----
-##
-  <summary>👨‍💻 More about me</summary>
 
+  <summary>👨‍💻 More about me</summary>
+<p>
   - 💬 i'm currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning, PHP, React native. 
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
-  ---
-###
+</p>
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/broother_ti)
@@ -33,7 +29,7 @@
 [![julio bernardes GitHub stats](https://github-readme-stats.vercel.app/apisei-la-3)](https://github.com/sei-la-3/github-readme-stats)
 ---
 <!-- Portfolio -->
-## Portfolio:
+ Portfolio:
 - [Seaborn Data Visualization](https://github.com/)
 - [Exploratory Data Analysis](https://github.com/)
 - [Interactive Data Visualization](https://github.com/)
@@ -46,7 +42,7 @@
 </p>
 </div>
 ---
-## 🔥 Skills
+ 🔥 Skills
 <!-- Skills: Programming Languages -->
   <section style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
