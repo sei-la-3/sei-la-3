@@ -21,7 +21,7 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 | ![Seaborn](https://img.shields.io/badge/Seaborn-1279B0?style=for-the-badge&logo=seaborn&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
-*Ah, e eu também sei um pouco de C — não porque uso no dia a dia, mas porque programar em C é tipo invocar um demônio antigo: você não entende direito como funciona, mas quando funciona, parece mágica.* 🧙‍♂️
+*Ah, e eu também sei um pouco de C — não porque uso no dia a dia, mas porque programar em C é tipo invocar um demônio antigo: você não entende direito como funciona, mas quando funciona, parece mágica.*
 
 ---
 
