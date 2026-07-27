@@ -56,7 +56,7 @@ I believe that being a complete and curious person makes me a more creative prof
 
 ### 📊 My cozy corner on GitHub
 
-![GitHub stats](https://github-readme-stats-beta-brown-48.vercel.app/api?username=sei-la-3&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sei-la-3&show_icons=true&theme=radical)
 
 ---
 
