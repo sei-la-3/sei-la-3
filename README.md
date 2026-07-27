@@ -5,7 +5,7 @@
 I'm a Brazilian **Data Science** student who discovered that the real magic happens when the logic of numbers meets the freedom of visual creation.  
 These days, I spend as much time cleaning datasets as I do trying to get the perfect lighting on a cube in Blender.
 
-- 📚 **Currently:** Studying Data Science at [EDX](https://edx.org) — because understanding data is like learning to read the world's mind.
+- 📚 **Currently:** Studying Data Science — because understanding data is like learning to read the world's mind.
 - 🎨 **My true north:** Working with **3D Modeling**, whether for games, animation, or architectural visualization. I want to give shape to ideas.
 - 🔭 **Current mode:** Looking for my **first opportunity** in tech — I'm open to learning and challenges (even if they involve a lot of *ctrl+z*).
 - ☕ **Life philosophy:** Learning slowly, calmly, and curiously is better than rushing and missing the details.
