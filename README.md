@@ -41,20 +41,20 @@ I believe that being a complete and curious person makes me a more creative prof
 
 ---
 
-<div align="center" style="
-  width: 100%; 
-  max-width: 900px; 
-  height: 250px; 
-  background-image: url('https://raw.githubusercontent.com/sei-la-3/sei-la-3/main/ceu-bonito.gif');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-radius: 12px;
-  margin: 0 auto;
-  pointer-events: none;
-  user-select: none;
-  -webkit-user-drag: none;
-"></div>
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/sei-la-3/sei-la-3/main/ceu-bonito.gif" 
+    alt="Céu bonito animado"
+    style="
+      width: 100%; 
+      max-width: 900px; 
+      height: 250px; 
+      border-radius: 12px; 
+      object-fit: cover; 
+      display: block;
+    "
+  />
+</div>
 
 ---
 
