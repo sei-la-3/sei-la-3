@@ -45,7 +45,7 @@ I believe that being a complete and curious person makes me a more creative prof
   width: 100%; 
   max-width: 900px; 
   height: 250px; 
-  background-image: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN293czl5b2tndnJhM2NnbHdndXUzdzZzZGgwODdnaHZzNTk3a3V1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2RgN7WUjeUUXm0/giphy.gif');
+  background-image: url('(https://br.pinterest.com/pin/858217272766275562/)');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
