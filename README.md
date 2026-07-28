@@ -12,6 +12,34 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 
 ---
 
+<div align="center">
+  <img 
+    src="https://img.wattpad.com/8ea3267eb263789c3788d45a7ad954c4b0ec4450/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75545557674246464149763245773d3d2d313139313430353536332e313830313139363630396238653533613336313230383332353239362e676966?s=fit" 
+    alt="Banner animado" 
+    width="1200" 
+    height="500" 
+    style="border-radius: 6px;" 
+  />
+</div>
+
+---
+
+### 📖 About the person behind the code
+
+> *"Know thyself and you will know the universe and the gods."* — Socrates  
+*(Yes, I'm that person who drops a philosophical quote in the middle of a conversation about overfitting).*
+
+When the computer is off, you'll find me:
+
+- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
+- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
+- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
+- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
+
+I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
+
+---
+
 ### 🧰 My Toolbox (honest and real)
 
 <div align="center">
@@ -46,34 +74,6 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 ### 🧙‍♂️ Bonus: The Ancient One
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) — *conhecimento básico, mas o suficiente para invocar demônios antigos quando necessário. (E também para entender ponteiros, o que já é uma vitória).*
-
----
-
-<div align="center">
-  <img 
-    src="https://img.wattpad.com/8ea3267eb263789c3788d45a7ad954c4b0ec4450/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75545557674246464149763245773d3d2d313139313430353536332e313830313139363630396238653533613336313230383332353239362e676966?s=fit" 
-    alt="Banner animado" 
-    width="1200" 
-    height="500" 
-    style="border-radius: 6px;" 
-  />
-</div>
-
----
-
-### 📖 About the person behind the code
-
-> *"Know thyself and you will know the universe and the gods."* — Socrates  
-*(Yes, I'm that person who drops a philosophical quote in the middle of a conversation about overfitting).*
-
-When the computer is off, you'll find me:
-
-- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
-- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
-- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
-- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
-
-I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
 
 ---
 
