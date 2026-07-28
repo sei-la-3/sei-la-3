@@ -53,9 +53,11 @@ I believe that being a complete and curious person makes me a more creative prof
   margin: 0 auto;
   pointer-events: none;
   user-select: none;
-  -webkit-user-drag: none;
-"></div>
+  -webkit-user-drag: none;">
+  </div>
+
 ---
+
 ### 📫 Let's chat? (I love making new friends)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
