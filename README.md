@@ -104,7 +104,7 @@ I believe that being a complete and curious person makes me a more creative prof
 
 ### Bonus: The Ancient One
 
-*Ah, e eu também sei um pouco de C — não porque uso no dia a dia, mas porque programar em C é tipo invocar um demônio antigo: você não entende direito como funciona, mas quando funciona, parece mágica.*
+*Ah, e eu também sei um pouco de C — não porque uso no dia a dia, mas porque programar em C é tipo invocar um demônio antigo: você não entende direito como funciona, mas quando funciona, parece mágica, acontece e nem você entende.*
 
 ---
 
