@@ -42,6 +42,13 @@ I believe that being a complete and curious person makes me a more creative prof
 
 ---
 
+### 📊 My cozy corner on GitHub
+
+![GitHub stats](https://github-readme-stats-beta-brown-48.vercel.app/api?username=sei-la-3&show_icons=true&theme=radical)
+
+
+---
+
 ### 🧰 My Toolbox (honest and real)
 
 <div align="center">
@@ -76,13 +83,6 @@ I believe that being a complete and curious person makes me a more creative prof
 ### 🧙‍♂️ Bonus: The Ancient One
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) — *conhecimento básico, mas o suficiente para invocar demônios antigos quando necessário. (E também para entender ponteiros, o que já é uma vitória).*
-
-
----
-
-### 📊 My cozy corner on GitHub
-
-![GitHub stats](https://github-readme-stats-beta-brown-48.vercel.app/api?username=sei-la-3&show_icons=true&theme=radical)
 
 ---
 
