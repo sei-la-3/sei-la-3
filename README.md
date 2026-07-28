@@ -43,16 +43,11 @@ I believe that being a complete and curious person makes me a more creative prof
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/sei-la-3/sei-la-3/main/ceu-bonito.gif" 
-    alt="Céu bonito animado"
-    style="
-      width: 100%; 
-      max-width: 900px; 
-      height: 250px; 
-      border-radius: 12px; 
-      object-fit: cover; 
-      display: block;
-    "
+    src="SEU_LINK_AQUI" 
+    alt="Banner animado" 
+    width="900" 
+    height="250" 
+    style="border-radius: 12px;" 
   />
 </div>
 
