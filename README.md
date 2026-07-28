@@ -43,7 +43,7 @@ I believe that being a complete and curious person makes me a more creative prof
 
 <div align="center">
   <img 
-    src="SEU_LINK_AQUI" 
+    src="https://br.pinterest.com/pin/858217272766275562/" 
     alt="Banner animado" 
     width="900" 
     height="250" 
