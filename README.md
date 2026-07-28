@@ -16,25 +16,25 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 
 <div align="center">
 
-**🐍 Languages**
+**🐍 Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**🎨 3D & Front-end**
+**🎨 3D & Front-end**  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**⚙️ Back-end & Databases**
+**⚙️ Back-end & Databases**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**☁️ Cloud & Deploy**
+**☁️ Cloud & Deploy**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**🛠️ Dev Tools**
+**🛠️ Dev Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -46,6 +46,18 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 ### 🧙‍♂️ Bonus: The Ancient One
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) — *conhecimento básico, mas o suficiente para invocar demônios antigos quando necessário. (E também para entender ponteiros, o que já é uma vitória).*
+
+---
+
+<div align="center">
+  <img 
+    src="https://img.wattpad.com/8ea3267eb263789c3788d45a7ad954c4b0ec4450/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75545557674246464149763245773d3d2d313139313430353536332e313830313139363630396238653533613336313230383332353239362e676966?s=fit" 
+    alt="Banner animado" 
+    width="1200" 
+    height="500" 
+    style="border-radius: 6px;" 
+  />
+</div>
 
 ---
 
@@ -62,18 +74,6 @@ When the computer is off, you'll find me:
 - 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
 
 I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
-
----
-
-<div align="center">
-  <img 
-    src="https://img.wattpad.com/8ea3267eb263789c3788d45a7ad954c4b0ec4450/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75545557674246464149763245773d3d2d313139313430353536332e313830313139363630396238653533613336313230383332353239362e676966?s=fit" 
-    alt="Banner animado" 
-    width="1200" 
-    height="500" 
-    style="border-radius: 6px;" 
-  />
-</div>
 
 ---
 
