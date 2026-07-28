@@ -46,7 +46,7 @@ I believe that being a complete and curious person makes me a more creative prof
     src="https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif" 
     alt="Banner animado" 
     width="900" 
-    height="250" 
+    height="600" 
     style="border-radius: 12px;" 
   />
 </div>
