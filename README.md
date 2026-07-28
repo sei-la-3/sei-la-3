@@ -45,7 +45,7 @@ I believe that being a complete and curious person makes me a more creative prof
   width: 100%; 
   max-width: 900px; 
   height: 250px; 
-  background-image: url('https://raw.githubusercontent.com/sei-la-3/sei-la-3/main/assets/céu bonito.jpg');
+  background-image: url('https://raw.githubusercontent.com/sei-la-3/sei-la-3/main/céu bonito.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
