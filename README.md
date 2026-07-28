@@ -24,22 +24,6 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 
 ---
 
-### 📖 About the person behind the code
-
-> *"Know thyself and you will know the universe and the gods."* — Socrates  
-*(Yes, I'm that person who drops a philosophical quote in the middle of a conversation about overfitting).*
-
-When the computer is off, you'll find me:
-
-- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
-- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
-- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
-- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
-
-I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
-
----
-
 ### 🧰 My Toolbox (honest and real)
 
 <div align="center">
@@ -74,6 +58,22 @@ I believe that being a complete and curious person makes me a more creative prof
 ### 🧙‍♂️ Bonus: The Ancient One
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) — *conhecimento básico, mas o suficiente para invocar demônios antigos quando necessário. (E também para entender ponteiros, o que já é uma vitória).*
+
+---
+
+### 📖 About the person behind the code
+
+> *"Know thyself and you will know the universe and the gods."* — Socrates  
+*(Yes, I'm that person who drops a philosophical quote in the middle of a conversation about overfitting).*
+
+When the computer is off, you'll find me:
+
+- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
+- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
+- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
+- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
+
+I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
 
 ---
 
