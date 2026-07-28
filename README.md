@@ -42,7 +42,7 @@ I believe that being a complete and curious person makes me a more creative prof
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN293czl5b2tndnJhM2NnbHdndXUzdzZzZGgwODdnaHZzNTk3a3V1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2RgN7WUjeUUXm0/giphy.gif" alt="night sky" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN293czl5b2tndnJhM2NnbHdndXUzdzZzZGgwODdnaHZzNTk3a3V1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2RgN7WUjeUUXm0/giphy.gif" alt="night sky" style="max-width: 80%; height: auto; border-radius: 12px;" />
 </p>
 
 ---
