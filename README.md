@@ -102,14 +102,10 @@ I believe that being a complete and curious person makes me a more creative prof
 
 </div>
 
+### Bonus: The Ancient One
+
+*Ah, e eu também sei um pouco de C — não porque uso no dia a dia, mas porque programar em C é tipo invocar um demônio antigo: você não entende direito como funciona, mas quando funciona, parece mágica.*
+
 ---
-
-### 🧙‍♂️ Bonus: The Ancient One
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) — *conhecimento básico, mas o suficiente para invocar demônios antigos quando necessário. (E também para entender ponteiros, o que já é uma vitória).*
-
-
-
-
 
 ✨ *This profile is being built little by little, with calm and coffee — exactly as it should be.*
