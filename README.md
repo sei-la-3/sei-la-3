@@ -12,6 +12,24 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 
 ---
 
+
+
+### 📖 About the person behind the code
+
+> *"Know thyself and you will know the universe and the gods."* — Socrates  
+*(Yes, I'm that person who drops a philosophical quote in the middle of a conversation about overfitting).*
+
+When the computer is off, you'll find me:
+
+- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
+- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
+- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
+- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
+
+I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
+
+---
+
 <div align="center">
   <img 
     src="https://img.wattpad.com/8ea3267eb263789c3788d45a7ad954c4b0ec4450/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75545557674246464149763245773d3d2d313139313430353536332e313830313139363630396238653533613336313230383332353239362e676966?s=fit" 
@@ -59,34 +77,6 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) — *conhecimento básico, mas o suficiente para invocar demônios antigos quando necessário. (E também para entender ponteiros, o que já é uma vitória).*
 
----
-
-### 📖 About the person behind the code
-
-> *"Know thyself and you will know the universe and the gods."* — Socrates  
-*(Yes, I'm that person who drops a philosophical quote in the middle of a conversation about overfitting).*
-
-When the computer is off, you'll find me:
-
-- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
-- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
-- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
-- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
-
-I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
-
----
-
-### 📫 Let's chat? (I love making new friends)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO_AQUI/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SEU_CANAL_AQUI)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_USUARIO_AQUI/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEU_USUARIO_AQUI/)
-
-📧 **Email:** bernardesj512@gmail.com  
-(Feel free to reach out, even if it's just to flood my inbox with random nonsense — I promise I'll read it all).
 
 ---
 
@@ -106,6 +96,20 @@ I believe that being a complete and curious person makes me a more creative prof
 | [🗄️ Data Querying and Analysis](https://github.com/SEU_USUARIO/link-do-projeto) | SQL queries and data wrangling with Python. |
 | [📋 Client Registry System](https://github.com/SEU_USUARIO/link-do-projeto) | A basic CRUD system to organize clients (PHP + MySQL). |
 
+
 ---
+
+### 📫 Let's chat? (I love making new friends)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO_AQUI/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SEU_CANAL_AQUI)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_USUARIO_AQUI/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SEU_USUARIO_AQUI/)
+
+📧 **Email:** bernardesj512@gmail.com  
+(Feel free to reach out, even if it's just to flood my inbox with random nonsense — I promise I'll read it all).
+
+
 
 ✨ *This profile is being built little by little, with calm and coffee — exactly as it should be.*
