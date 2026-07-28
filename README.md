@@ -40,7 +40,9 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
+
 ---
+
 
 ### 🧙‍♂️ Bonus: The Ancient One
 
