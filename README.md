@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Julio!
 
-### 🌱 Exploring data and dreaming in polygons
+### Exploring data and dreaming in polygons
 
 I'm a Brazilian **Data Science** student who discovered that the real magic happens when the logic of numbers meets the freedom of visual creation.  
 These days, I spend as much time cleaning datasets as I do trying to get the perfect lighting on a cube in Blender.
 
-- 📚 **Currently:** Studying Data Science — because understanding data is like learning to read the world's mind.
-- 🎨 **My true north:** Working with **3D Modeling**, whether for games, animation, or architectural visualization. I want to give shape to ideas.
-- 🔭 **Current mode:** Looking for my **first opportunity** in tech — I'm open to learning and challenges (even if they involve a lot of *ctrl+z*).
-- ☕ **Life philosophy:** Learning slowly, calmly, and curiously is better than rushing and missing the details.
+-  **Currently:** Studying Data Science — because understanding data is like learning to read the world's mind.
+-  **My true north:** Working with **3D Modeling**, whether for games, animation, or architectural visualization. I want to give shape to ideas.
+-  **Current mode:** Looking for my **first opportunity** in tech — I'm open to learning and challenges (even if they involve a lot of *ctrl+z*).
+-  **Life philosophy:** Learning slowly, calmly, and curiously is better than rushing and missing the details.
 
 ---
 
@@ -21,16 +21,16 @@ These days, I spend as much time cleaning datasets as I do trying to get the per
 
 When the computer is off, you'll find me:
 
-- 📚 Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
-- ☕ Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
-- 🎮 Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
-- 🖌️ (Trying to) sculpt something in Blender while listening to lo-fi.
+-  Diving into **manga, comics, and fantasy books** — I love a good story that takes me to another world.
+-  Sipping tea (or coffee, depends on the day) while watching a cozy movie, wrapped in a blanket.
+-  Exploring open worlds in games that have more beautiful scenery than main quests — all for visual inspiration.
+-  (Trying to) sculpt something in Blender while listening to lo-fi.
 
 I believe that being a complete and curious person makes me a more creative professional. Data shows patterns, but art shows feelings — and I want to learn how to bring them together.
 
 ---
 
-### 📫 Let's chat? (I love making new friends)
+###  Let's chat? (I love making new friends)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sei_la_512/)
@@ -55,13 +55,13 @@ I believe that being a complete and curious person makes me a more creative prof
 
 ---
 
-### 📊 My cozy corner on GitHub
+###  My cozy corner on GitHub
 
 ![GitHub stats](https://github-readme-stats-beta-brown-48.vercel.app/api?username=sei-la-3&show_icons=true&theme=radical)
 
 ---
 
-### 🗂️ Things I made with care (my portfolio)
+###  Things I made with care (my portfolio)
 
 | Project | What is it? |
 | :---: | :--- |
@@ -77,25 +77,25 @@ I believe that being a complete and curious person makes me a more creative prof
 
 <div align="center">
 
-**🐍 Languages**  
+** Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**🎨 3D & Front-end**  
+** 3D & Front-end**  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**⚙️ Back-end & Databases**  
+** Back-end & Databases**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**☁️ Cloud & Deploy**  
+** Cloud & Deploy**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**🛠️ Dev Tools**  
+** Dev Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
